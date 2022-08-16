@@ -1,0 +1,20 @@
+Strings is an Array.
+
+Name = "Michael Jackson"    Name[0]: M
+
+Negative index go form right to left, and positive goes from left to right.
+
+Nmae[::2]= returns all pairs  Mca....
+
+and slicing [0:5:2] from 0 to 5 get all pairs position values.
+
+
+Multiply strings   3*"M" = "MMM"
+
+Is not possible to change values of an String Name[0]=1 imposible.
+
+\ Represents a new line.
+
+\t Represents a tab
+
+\\ returns a backslash \  or place an r at te start r"Michael \ Jackson."

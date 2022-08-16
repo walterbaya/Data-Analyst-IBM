@@ -1,0 +1,11 @@
+Integers, Real Numbers and words.
+
+int, float and str.
+
+-We can see the type using type(11) per example.
+-Type casting: convert an int to a float float(2) = 2.0   int(1.1) = 1    int('1') = 1 if is not a number 
+  int('A') gives an error.
+-Boolean, can take two values: True or False type(True) = Bool
+ int(True) = 1 float(True) = 1 etc...
+
+

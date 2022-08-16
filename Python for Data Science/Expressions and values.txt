@@ -1,0 +1,17 @@
+43 + 60   symbols are the operators +, and the numbers are the operands.
+
+And all the mathematical operations.
+
+// Integer division.
+
+Variables to store values.
+
+my_variable = 1
+
+my_variable: 1
+
+USE MEANINGFUL NAMES.
+
+the result of division is a float.
+
+USE UNDERSCORE _ FOR THE START OF A NEW WORD.
